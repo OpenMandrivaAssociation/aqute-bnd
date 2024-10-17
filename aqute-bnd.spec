@@ -35,7 +35,7 @@ Release:        14.3
 Group:		Development/Java
 Summary:        BND Tool
 License:        ASL 2.0
-URL:            http://www.aQute.biz/Code/Bnd
+URL:            https://www.aQute.biz/Code/Bnd
 
 # NOTE : sources for 0.0.363 are no longer available
 # The following links would work for 0.0.370-0.0.401 version range, but
